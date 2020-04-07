@@ -4,3 +4,4 @@ Git add.
 Git modify2.
 Git 04-07 first
 Git 04-07 second
+Creating a new branch is quick & simple.

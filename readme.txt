@@ -9,5 +9,3 @@ Creating a new branch is quick & simple.
 Git 04-07 third
 
 
-Git dev first
-
